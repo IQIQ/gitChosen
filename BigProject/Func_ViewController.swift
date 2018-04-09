@@ -58,7 +58,10 @@ class StructOperation {
         static var DataDoubleBarChart = [[Any]]()
         //----------------------- Chart------------------------
         
-
+        //----------------------- test------------------------
+        static var tetst = [String]()
+      
+        //----------------------- test------------------------
         
         
 
